@@ -1,6 +1,6 @@
 # Drag Force Solution 
 
-This program models a mathematical equation to determine the power in watts and horsepower needed to overcome the drag force produced on a car based upon its current velocity. 
+This project aims to provide a program which models a mathematical equation to determine the power in watts and horsepower needed to overcome the drag force produced on a car based upon its current velocity. 
 
 
 ## More Info
